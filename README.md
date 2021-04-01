@@ -1,2 +1,2 @@
-# client-server-erlang
-Client-Server data base in Erlang
+# Library Erlang
+Client-Server data base of a Library with requests in Erlang
